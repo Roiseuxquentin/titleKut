@@ -1,8 +1,7 @@
 # FIND & CUT MASSIVE FILES' TITLE
 
-Script for Unix environment
+Script for Unix environment , 
 Rename files' title deep in repository
-Enter 'parOftitle' and script cut it in all files' title when it match
 
 ## Getting Started
 
