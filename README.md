@@ -24,4 +24,4 @@ $cowsay => sudo apt-get install cowsay
 
 ## Authors
 
-* **Quentin Roiseux** - *dev* - [RoiseuxQuentin](https://github.com/roiseuxquentin)
+* **Quentin Roiseux** - *dev* - [LinkedIn](https://www.linkedin.com/in/roiseuxquentin/)
