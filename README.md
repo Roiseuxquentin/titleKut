@@ -20,8 +20,10 @@ Linux :
 ```
 ### Prerequisites
 
-$cowsay => sudo apt-get install cowsay
-
+-cowsay : Fun Ascii Art
+```
+sudo apt-get install cowsay
+```
 ## Authors
 
 * **Quentin Roiseux** - *dev* - [LinkedIn](https://www.linkedin.com/in/roiseuxquentin/)
