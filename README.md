@@ -8,6 +8,7 @@ Rename files' title deep in repository
 Launch script :
 ```
  bash FindAndCuthis.bash
+ enter title's part
 ```
 ## Installed
 
@@ -22,6 +23,15 @@ Linux :
 -cowsay : Fun Ascii Art
 ```
 sudo apt-get install cowsay
+```
+### Test
+
+-MakeMassiveFiles.bash : All is in script's title. It make massive files like : exemple1.test , exemple2.test ... exemple100.test
+```
+bash MakeMassiveFiles.bash
+enter number
+enter title
+enter extension
 ```
 ## Authors
 
