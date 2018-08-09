@@ -7,7 +7,7 @@ Rename files' title deep in repository
 
 Launch script :
 ```
- bash FindAndCuthis.bash
+ bash RenameMassTitles.bash
  enter title's part
 ```
 ## Installed
