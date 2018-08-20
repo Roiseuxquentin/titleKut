@@ -17,9 +17,12 @@ touch ghostPremier.i ghostTampon.i
 clear
 
 # Looking for matched files & make list of files
-find . | grep -F "$Kut" > ghostPremier.i
+  ##BUG : need regex for special characteres
+  # if [ `echo ${Kut} | cut -c1` = '-' ]
+################################################
+  find . | grep -F "$Kut" > ghostPremier.i
+  cat ghostPremier.i > ghostTampon.i
 
-cat ghostPremier.i > ghostTampon.i
 
 # Kut title's part
 if [[ $Kut =~ $regex ]] ; then
